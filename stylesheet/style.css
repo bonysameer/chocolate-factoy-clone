@@ -1,0 +1,363 @@
+body{
+   font-family: 'Montserrat', sans-serif;
+}
+.first-div{
+   /* display: flex; */
+   /* justify-content: end; */
+   margin-left: 1050px;
+   margin-top: 15px;
+}
+span{
+   margin-right: 25px;
+   font-size: 16px;
+}
+.link{
+   text-decoration: none;
+   color: #C38154;
+}
+hr{
+   border: 1px solid #D8C4B6;
+   border-style: none none double;
+   margin-top: 15px;
+}
+.angle-first{
+   position: relative;
+   bottom: 18px;
+   left: 410px;
+}
+/* #drop-down{ */
+   /* height: 30px; */
+   /* width: 30px; */
+   /* position: absolute; */
+   /* top: 10px; */
+   /* right: 90px; */
+   /* color: #C38154; */
+/* } */
+#logo-image{
+   height: 70px;
+   margin-left: 85px;
+}
+.search{
+   font-size: 15px;
+   border-color: #D8C4B6;
+   border-style: none none double;
+   width: 350px;
+   margin-left: 240px;
+   height: 30px;
+}
+.fa-magnifying-glass{
+   position: relative;
+   right: 30px;
+}
+.find{
+   margin-left: 430px;
+   font-size: 16px;
+   color: #C38154;
+}
+.fa-location-dot{
+   position: relative;
+   right: 20px;
+}
+/* .third{ */
+   /* margin-right: 5px; */
+   /* margin-left: 150px; */
+   /* font-size: 18px; */
+
+/* .third-sub-div{ */
+   /* margin-left: 450px; */
+   /* margin-top: 30px; */
+   /* font-size: 50px; */
+/* } */
+.third-div{
+   margin-left: 400px;
+   margin-top: 25px;
+}
+#third{
+   font-size: 20px;
+   font-weight: bolder;
+   color: #C38154;
+}
+#cover-pic{
+   width: 100%;
+   height: 70%;
+   margin-top: 10px;
+   -webkit-filter: black(100%);
+   filter: black(100%);
+}
+.description-one{
+   font-size: 45px;
+   position: relative;
+   bottom: 900px;
+   color: #fff;
+   margin-left: 30px;
+}
+.description-two{
+   position: relative;
+   bottom: 900px;
+   margin-left: 35px;
+   color: #fff;
+   line-height: 25px;
+   font-size: 20px;
+}
+.button-one{
+   position: relative;
+   bottom: 900px;
+   margin-left: 60px;
+   height: 50px;
+   width: 280px;
+   background-color: transparent;
+   color: #fff;
+   border-color: #fff;
+   font-size: 15px;
+   transition: 0.5;
+}
+.button-one:hover{
+   background-color: #C38154;
+   color: #fff;
+}
+.horizontal{
+   border: 8px dotted #fff ; 
+   width: 5%; 
+   border-style: none none dotted;
+   position: relative;
+   bottom: 700px;
+   right: 590px;
+  
+}
+.fifth-div{
+   position: relative;
+   bottom: 320px;
+   text-align: center;
+   font-size: 20px;
+}
+h2{
+   margin-bottom: 50px;
+}
+#choclates-menu{
+   display: flex;
+   justify-content: space-evenly;
+   /* justify-content: space-evenly; */
+   
+}
+.image-choclate:hover{
+   transform: scale(1.2); 
+}
+.main-table{
+   border-spacing: 35px;
+}
+.table.td{
+   color: #606C5D;
+}
+#table-td{
+   color: #C38154;
+}
+.sixth-div{
+   text-align: center;
+   position: relative;
+   bottom: 300px;
+}
+h3{
+   font-size: 35px;
+   color: #606C5D;
+}
+/* em{ */
+   /* font-style: normal; */
+   /* border: 1px solid gray; */
+   /* padding: 15px; */
+/* } */
+.sixth-sub-div{
+   height: 50px;
+   width: 200px;
+   border: 1px solid #C38154;
+   padding: 10px;
+   font-size: 20px;
+   color: #C38154;
+}
+.sixth-sub-div:hover{
+   background-color: #C38154;
+   color: #fff;
+}
+.sixth-table{
+   border-spacing: 30px;
+   margin-left: 55px;
+}
+.sub-table{
+   font-size: 20px;
+   color: #606C5D;
+}
+.second-sub-main-div{
+   border: 150px solid #E4DCCF;
+   position: relative;
+   bottom: 240px;
+   height: 150vh;
+}
+.second-main-div{
+   /* background-color: 20px solid black; */
+   /* height: 80vh; */
+   /* border: 150px solid #E4DCCF; */
+   /* position: relative; */
+   /* bottom: 240px; */
+   display: flex;
+}
+#mother-pic{
+   position: relative;
+   bottom: 55px;
+   right: 80px;
+}
+h4{
+   color: #606C5D;
+}
+.our-story{
+   font-size: 30px;
+   color: #606C5D;
+}
+.description-story{
+   line-height: 28px;
+   color: #C38154;
+}
+.read-button{
+   border: 1px solid #606C5D;
+   width: 120px;
+   padding: 20px;
+   font-weight: bold;
+   color: #606C5D;
+}
+.read-button:hover{
+   background-color: #C38154;
+   color: #fff;
+   font-weight: bold;
+}
+.third-main-div{
+   margin-left: 15px;
+   display: flex;
+}
+#cocoa-pods{
+   position: relative;
+   left: 90px;
+}
+.fourth-main{
+   border: 20px solid #E4DCCF;
+   background-color: #E4DCCF;
+   height: 150vh;
+   position: relative;
+   bottom: 250px;
+   display: flex;
+   justify-content: space-around;
+}
+.description-fourth{
+   position: relative;
+   bottom: 280px;
+   margin-left: 20px;
+   color: #fff;
+}
+.read-browse{
+   border: 1px solid #fff;
+   width: 120px;
+   padding: 20px;
+   font-weight: bold;
+   color: #fff;
+}
+.read-browse:hover{
+   background-color: #C38154;
+}
+#description-fourth{
+   position: relative;
+   bottom: 280px;
+   margin-left: 20px;
+   color: #fff;
+}
+/* .seventh-div{ */
+   /* position: relative; */
+   /* top: 580px; */
+/* } */
+#office{
+   width: 100%;
+   position: relative;
+   bottom: 790px;
+}
+.seventh-sub-div{
+   position: relative;
+   bottom: 180vh;
+   margin-left: 100px;
+}
+#font-size-sub{
+   font-size: 60px;
+   color: #fff;
+}
+.description-seventh{
+   color: #fff;
+   line-height: 20px;
+   font-size: 18px;
+}
+#last-line{
+   position: relative;
+   bottom: 170vh;
+}
+.last-footer-div{
+   display: flex;
+   justify-content: space-around;
+   position: relative;
+   bottom: 170vh;
+   /* flex-direction: row; */
+}
+ul{
+   line-height: 70px;
+}
+#first-li{
+   color: #606C5D;
+   font-weight: 600;
+}
+li{
+   list-style-type: none;
+   color: #C38154;
+}
+.fa-brands{
+   font-size: 30px;
+   padding: 20px;
+   /* display: flex; */
+   /* justify-content: space-around; */
+}
+.last-sub-table{
+   color: #606C5D;
+   font-weight: 600;
+}
+.last-table{
+   position: relative;
+   top: 40px;
+}
+#footer-line-horizontal{
+   position: relative;
+   bottom: 165vh;
+   color: #C38154;
+}
+footer{
+   position: relative;
+   bottom: 160vh;
+   color: #606C5D;
+   text-align: center;
+}
+/* .fourth-main-sub-div{ */
+   /* margin-left: 80px; */
+/* } */
+/* ul{ */
+   /* line-height: 50px; */
+/* } */
+
+#third-sub-menu{
+   display: none;
+}
+#third:hover + #third-sub-menu{
+   display: block;
+   position: absolute;
+   color: black;
+   font-weight: bold;
+   background-color: #fff;
+   width: 50%;
+   border-radius: 10px;
+}
+
+@media only screen and (max-width:600px){
+   body{
+      width: 100%;
+   }
+}
